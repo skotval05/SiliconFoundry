@@ -1,20 +1,20 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Scarlett Kotval, CPE + EE Student (2024-2028)
+bkotval05@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+MENTOR NAME HERE (none as of first commit)
 
 ## Current Status
-IN PROGRESS
+AWAITING REVIEW TO BEGIN
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project will cover the material processes required to convert Home Depot sand into (hopefully) high purity elemental silicon. A majority of the project will focus on the design of a furnace (either induction or arc powered, still up in the air), a carbon capture system to handle the gas output, and a mechanism to automatically extract a monocrystalline silicon boule.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Over the course of an Electrical Engineering degree at Virginia Tech, most of the focus is on the fabrication and use of electrical components (this is completely fair, and I officially have no problems with this decision). I feel that taking time to learn about the chemical processes used in creating the foundation upon modern electronics would benefit me greatly. I would like to experiment with producing my own 2" wafers from a homemade setup, acting as a stepping stone to the pipe dream that is building my own circuits on a homemade wafer.
 
 ## Tasks
 
